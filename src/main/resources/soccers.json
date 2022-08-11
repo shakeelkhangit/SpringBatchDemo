@@ -1,0 +1,50 @@
+[
+	{
+		"name": "zidane",
+		"nation": "france"
+	},
+	{
+		"name": "ronaldo",
+		"nation": "brazil"
+	},
+	{
+		"name": "marcelo",
+		"nation": "brazil"
+	},
+	{
+		"name": "kross",
+		"nation": "germany"
+	},
+	{
+		"name": "maradona",
+		"nation": "ar"
+	},
+	{
+		"name": "henry",
+		"nation": "french"
+	},
+	{
+		"name": "pele",
+		"nation": "brazil"
+	},
+	{
+		"name": "canavaro",
+		"nation": "italy"
+	},
+	{
+		"name": "nesta",
+		"nation": "italy"
+	},
+	{
+		"name": "buffon",
+		"nation": "italy"
+	},
+	{
+		"name": "kaka",
+		"nation": "brazil"
+	},
+	{
+		"name": "xavi",
+		"nation": "spain"
+	}
+]
