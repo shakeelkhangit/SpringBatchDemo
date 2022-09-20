@@ -8,7 +8,7 @@ public class ConsoleItemWriter<String> implements ItemWriter<String> {
     @Override
     public void write(List<? extends String> items) throws Exception { 
         for (String item : items) { 
-            System.out.println("xxxxxxxxxxxx===="+item); 
+            System.out.println("xxxxxxxxxxxx1111===="+item); 
         } 
     } 
 }
